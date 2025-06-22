@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>European Union Nuclear Power Clients Seeking Asian Collaborations</title>
+    <style>
+        body {
+            font-family: 'Calibri Light', Arial, sans-serif;
+            color: #666;
+            background-color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: center;
+            color: #003366;
+            font-size: 24px;
+            margin: 20px 0;
+        }
+        .category {
+            margin-bottom: 40px;
+        }
+        .category h2 {
+            font-size: 20px;
+            color: #003366;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .applications {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 20px;
+            padding: 0 20px;
+        }
+        .app {
+            text-align: center;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .app-number {
+            font-size: 10px;
+            color: #555;
+            margin-bottom: 5px;
+        }
+        .app a {
+            color: #003366;
+            text-decoration: none;
+            font-size: 12px;
+            display: block;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .app a:hover {
+            text-decoration: underline;
+        }
+        .app p {
+            font-size: 10px;
+            color: #666;
+            white-space: nowrap;
+        }
+    </style>
+</head>
+<body>
+    <h1>European Union Nuclear Power Clients Seeking Asian Collaborations</h1>
+
+    <!-- Western European Nuclear Clients -->
+    <section class="category">
+        <h2>Western European Nuclear Clients</h2>
+        <div class="applications">
+            <div class="app">
+                <div class="app-number">#01</div>
+                <a href="https://www.edf.fr">EDF France Nuclear</a>
+                <p>Material Supply Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#02</div>
+                <a href="https://www.engie.com">Engie France Nuclear</a>
+                <p>Engineering Collaboration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#03</div>
+                <a href="https://www.orano.group">Orano Nuclear Materials</a>
+                <p>Construction Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#04</div>
+                <a href="https://www.framatome.com">Framatome Nuclear Systems</a>
+                <p>Fuel Supply Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#05</div>
+                <a href="https://www.technicatome.com">TechnicAtome Nuclear Engineering</a>
+                <p>Technology Transfer Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#06</div>
+                <a href="https://www.assystem.com">Assystem Nuclear Engineering</a>
+                <p>Joint Venture Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#07</div>
+                <a href="https://www.orano.group">Areva Nuclear Components</a>
+                <p>Strategic Alliance</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#08</div>
+                <a href="https://www.cea.fr">CEA Nuclear Research</a>
+                <p>Supply Chain Integration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#09</div>
+                <a href="https://www.irsn.fr">IRSN Nuclear Safety</a>
+                <p>Manufacturing Collaboration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#10</div>
+                <a href="https://www.andra.fr">Andra Nuclear Waste</a>
+                <p>R&D Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#11</div>
+                <a href="https://www.naval-group.com">Naval Group Nuclear</a>
+                <p>Material Supply Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#12</div>
+                <a href="https://www.bouygues-construction.com">Bouygues Nuclear Construction</a>
+                <p>Engineering Collaboration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#13</div>
+                <a href="https://www.eon.com">E.ON Germany Nuclear</a>
+                <p>Construction Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#14</div>
+                <a href="https://www.rwe.com">RWE Germany Nuclear</a>
+                <p>Fuel Supply Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#15</div>
+                <a href="https://www.enbw.com">EnBW Germany Nuclear</a>
+                <p>Technology Transfer Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#16</div>
+                <a href="https://group.vattenfall.com">Vattenfall Germany Nuclear</a>
+                <p>Joint Venture Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#17</div>
+                <a href="https://www.siemens-energy.com">Siemens Nuclear Energy</a>
+                <p>Strategic Alliance</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#18</div>
+                <a href="https://www.framatome.com">Framatome Germany Nuclear</a>
+                <p>Supply Chain Integration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#19</div>
+                <a href="https://www.tuv.com">TÜV Nuclear Services</a>
+                <p>Manufacturing Collaboration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#20</div>
+                <a href="https://www.grs.de">GRS Nuclear Safety</a>
+                <p>R&D Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#21</div>
+                <a href="https://www.edfenergy.com">EDF Energy Nuclear</a>
+                <p>Material Supply Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#22</div>
+                <a href="https://www.rolls-royce.com">Rolls-Royce Nuclear</a>
+                <p>Engineering Collaboration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#23</div>
+                <a href="https://www.babcockinternational.com">Babcock Nuclear Services</a>
+                <p>Construction Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#24 Aramaic
+                <a href="https://www.jacobs.com">Jacobs Nuclear Engineering</a>
+                <p>Fuel Supply Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#25</div>
+                <a href="https://www.atkinsrealis.com">Atkins Nuclear Design</a>
+                <p>Technology Transfer Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#26</div>
+                <a href="https://www.woodplc.com">Wood Nuclear Services</a>
+                <p>Joint Venture Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#27</div>
+                <a href="https://www.engie.com">Engie Electrabel Nuclear</a>
+                <p>Strategic Alliance</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#28</div>
+                <a href="https://www.sckcen.be">SCK CEN Nuclear</a>
+                <p>Supply Chain Integration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#29</div>
+                <a href="https://www.tractebel-engie.com">Tractebel Nuclear Engineering</a>
+                <p>Manufacturing Collaboration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#30</div>
+                <a href="https://www.epz.nl">EPZ Nuclear Power</a>
+                <p>R&D Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#31</div>
+                <a href="https://www.nrg.eu">NRG Nuclear Research</a>
+                <p>Material Supply Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#32</div>
+                <a href="https://www.covra.nl">COVRA Nuclear Waste</a>
+                <p>Engineering Collaboration</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Central European Nuclear Clients -->
+    <section class="category">
+        <h2>Central European Nuclear Clients</h2>
+        <div class="applications">
+            <div class="app">
+                <div class="app-number">#33</div>
+                <a href="https://www.cez.cz">CEZ Czech Nuclear</a>
+                <p>Construction Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#34</div>
+                <a href="https://www.skoda-js.cz">Skoda Nuclear Engineering</a>
+                <p>Fuel Supply Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#35</div>
+                <a href="https://www.ujv.cz">UJV Nuclear Research</a>
+                <p>Technology Transfer Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#36</div>
+                <a href="https://www.mvm.hu">MVM Nuclear Hungary</a>
+                <p>Joint Venture Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#37</div>
+                <a href="https://www.paksnuclearpowerplant.hu">Paks Nuclear Power</a>
+                <p>Strategic Alliance</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#38</div>
+                <a href="https://www.seas.sk">Slovenské Elektrárne Nuclear</a>
+                <p>Supply Chain Integration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#39</div>
+                <a href="https://www.vuje.sk">VUJE Nuclear Engineering</a>
+                <p>Manufacturing Collaboration</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Eastern European Nuclear Clients -->
+    <section class="category">
+        <h2>Eastern European Nuclear Clients</h2>
+        <div class="applications">
+            <div class="app">
+                <div class="app-number">#40</div>
+                <a href="https://www.kozloduy.bg">Kozloduy Nuclear Power</a>
+                <p>R&D Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#41</div>
+                <a href="https://www.beh.bg">Bulgarian Energy Holding</a>
+                <p>Material Supply Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#42</div>
+                <a href="https://www.nuclearelectrica.ro">Nuclearelectrica Romania Nuclear</a>
+                <p>Engineering Collaboration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#43</div>
+                <a href="https://www.raten.ro">RATEN Nuclear Research</a>
+                <p>Construction Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#44</div>
+                <a href="https://www.pge.com">PGE Nuclear Poland</a>
+                <p>Fuel Supply Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#45</div>
+                <a href="https://www.ncbj.gov.pl">NCBJ Nuclear Research</a>
+                <p>Technology Transfer Partner</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Nordic Nuclear Clients -->
+    <section class="category">
+        <h2>Nordic Nuclear Clients</h2>
+        <div class="applications">
+            <div class="app">
+                <div class="app-number">#46</div>
+                <a href="https://group.vattenfall.com">Vattenfall Sweden Nuclear</a>
+                <p>Joint Venture Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#47</div>
+                <a href="https://www.uniper.energy">Uniper Sweden Nuclear</a>
+                <p>Strategic Alliance</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#48</div>
+                <a href="https://www.forsmarks-kraftgrupp.se">Forsmarks Kraftgrupp Nuclear</a>
+                <p>Supply Chain Integration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#49</div>
+                <a href="https://www.okg.se">OKG Nuclear Sweden</a>
+                <p>Manufacturing Collaboration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#50</div>
+                <a href="https://www.fortum.com">Fortum Finland Nuclear</a>
+                <p>R&D Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#51</div>
+                <a href="https://www.tvo.fi">TVO Finland Nuclear</a>
+                <p>Material Supply Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#52</div>
+                <a href="https://www.fennovoima.fi">Fennovoima Finland Nuclear</a>
+                <p>Engineering Collaboration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#53</div>
+                <a href="https://www.vttresearch.com">VTT Nuclear Research</a>
+                <p>Construction Partner</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Southern European Nuclear Clients -->
+    <section class="category">
+        <h2>Southern European Nuclear Clients</h2>
+        <div class="applications">
+            <div class="app">
+                <div class="app-number">#54</div>
+                <a href="https://www.iberdrola.com">Iberdrola Nuclear Spain</a>
+                <p>Fuel Supply Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#55</div>
+                <a href="https://www.endesa.com">Endesa Nuclear Spain</a>
+                <p>Technology Transfer Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#56</div>
+                <a href="https://www.naturgy.com">Naturgy Nuclear Spain</a>
+                <p>Joint Venture Partner</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#57</div>
+                <a href="https://www.enresa.es">Enresa Nuclear Waste</a>
+                <p>Strategic Alliance</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#58</div>
+                <a href="https://www.enel.com">Enel Nuclear Italy</a>
+                <p>Supply Chain Integration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#59</div>
+                <a href="https://www.ansaldoenergia.com">Ansaldo Nuclear Components</a>
+                <p>Manufacturing Collaboration</p>
+            </div>
+            <div class="app">
+                <div class="app-number">#60</div>
+                <a href="https://www.sogin.it">SOGIN Nuclear Decommissioning</a>
+                <p>R&D Partner</p>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
